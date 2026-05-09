@@ -3,7 +3,7 @@
   "name": "ksqldb",
   "version": "0.1.0",
   "description": "Commands to interact with ksqlDB using the REST API",
-  "git": "https://github.com/aux4/ksqldb",
+  "git": "https://github.com/aux4-community/ksqldb",
   "system": [
     [
       "test:curl --version",
